@@ -1,2 +1,2 @@
 # Python_Exercise
-This repository contains all my python exercise
+This repository contains all my python exercises

@@ -8,7 +8,7 @@ Created on Tue Nov  3 20:52:32 2020
 
 class menu():
     def __init__(self):
-        self.menu = dict()    # creates a new empty dict for each dog
+        self.menu = dict()    # creates a new empty dict menu
 
     def add(self, key,value):
         self.menu[key] = value
